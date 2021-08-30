@@ -1,0 +1,1 @@
+**This Project focuses on practicing the shell redirection and the commands that involves**
